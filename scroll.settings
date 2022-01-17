@@ -1,3 +1,4 @@
+maxColumns 2
 footer
  div
   class customFooter
