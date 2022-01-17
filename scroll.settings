@@ -1,0 +1,16 @@
+footer
+ div
+  class customFooter
+  span My site
+  a <b>My site</b>
+   href index.html
+header
+ link
+  href style.css
+  rel stylesheet
+ div
+  class customHeader
+  a My Site
+   href index.html
+  a About
+   href about.html
